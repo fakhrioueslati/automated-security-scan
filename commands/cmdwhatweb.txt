@@ -1,0 +1,2 @@
+pip install whatweb
+pip install colorama

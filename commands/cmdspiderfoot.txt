@@ -1,0 +1,31 @@
+# Clone the SpiderFoot repository from GitHub
+git clone https://github.com/smicallef/spiderfoot .
+
+# Install the required dependencies
+pip install -r requirements.txt
+
+# Install additional dependencies
+pip install beautifulsoup4
+pip install requests
+pip install lxml
+pip install cherrypy
+pip install Mako
+pip install pysocks
+pip install ipwhois
+pip install publicsuffixlist
+pip install netaddr
+pip install ExifRead
+pip install pyOpenSSL
+pip install pyyaml
+pip install ipaddr
+pip install phonenumbers
+pip install pygexf
+pip install python-docx
+pip install pyPDF2
+pip install python-pptx
+pip install networkx
+pip install cryptography
+pip install openpyxl
+
+# Go back to the original directory
+cd ..
